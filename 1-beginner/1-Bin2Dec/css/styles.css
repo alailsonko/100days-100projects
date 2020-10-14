@@ -7,4 +7,14 @@ html, body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 25vh;
+}
+
+.input-bin {
+    border-radius: 10px;
+    height: 2.2rem;
+    width: 45vw;
+    place-content: center;
+    outline: none;
+    text-align: center;
 }
