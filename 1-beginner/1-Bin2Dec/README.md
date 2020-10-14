@@ -1,6 +1,6 @@
-# Bin2Dec
+# Bin2Dec - [COMPLETED PROJECT LINK](https://alailsonko.github.io/100days-100projects/1-beginner/1-Bin2Dec/)
 
-**Tier:** 1-Beginner
+**Tier:** 1-Beginner 
 
 Binary is the number system all digital computers are based on.
 Therefore it's important for developers to understand binary, or base 2,
