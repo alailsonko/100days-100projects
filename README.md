@@ -19,7 +19,7 @@ required to complete them.
 
 | Name                                                                              | Short Description                                          | Tier       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [Bin2Dec](./Projects/1-Beginner/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                         | 1-Beginner |
+| [Bin2Dec - link of project](https://alailsonko.github.io/100days-100projects/1-beginner/1-Bin2Dec/)                                   | Binary-to-Decimal number converter                         | 1-Beginner |
 | [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Beginner |
 | [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Beginner |
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Beginner |
