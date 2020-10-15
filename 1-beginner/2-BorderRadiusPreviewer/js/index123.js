@@ -1,7 +1,7 @@
-window.addEventListener('load', loaded)
+window.addEventListener('load', loaded123)
 document.getElementById("border-input").addEventListener('input', borderFunction)
 
-function loaded() {
+function loaded123() {
     console.log('javascript working!')
 }
 
